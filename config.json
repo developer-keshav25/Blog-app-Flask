@@ -1,0 +1,12 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/Area-51",
+        "prod_uri": "mysql://root:@localhost/Area-51",
+        "no_posts": 2,
+        "login_image":"login.svg",
+        "username":"Alex@blaze.com",
+        "password":"abcd1234"
+
+    }
+}
